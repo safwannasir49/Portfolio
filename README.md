@@ -10,6 +10,9 @@
 </div>
 <br><br>
 <br><br>
+<img src="preview.png">
+<br><br>
+<br><br>
  <h3 align="center">Connect with me:</h3>
 <p align="center">
        <a href="mailto:safwannasir49@gmail.com" target="blank">
