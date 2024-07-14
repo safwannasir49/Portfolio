@@ -10,28 +10,21 @@
 </div>
 <br><br>
 <br><br>
-<h2 align="center" style="margin-bottom: 30px;">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
-<div align="center" style="margin-bottom: 30px;">
-  <a href="mailto:safwannasir49@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="Images/gmail.png" width=50 height=50 alt="safwannasir49@gmail.com" />
-  </a>
-
-  <a href="https://x.com/safwannasir49" target="_blank" style="margin: 0 15px;">
-    <img src="Images/twitter.png" width=50 height=50 alt="safwannasir49" />
-  </a>
-
-  <a href="https://www.instagram.com/safwan_nasir_" target="_blank" style="margin: 0 15px;">
-    <img src="Images/instagram.png" width=50 height=50 alt="safwannasir49" />
-  </a>
-
-  <a href="https://www.github.com/safwannasir49" target="_blank" style="margin: 0 15px;">
-    <img src="Images/github.png" width=50 height=50 alt="safwannasir49" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/safwannasir49/" target="_blank" style="margin: 0 15px;">
-    <img src="Images/linkedin.png" width=50 height=50 alt="linkedin" />
-  </a>
-</div>
+ <h3 align="center">Connect with me:</h3>
+<p align="center">
+       <a href="mailto:safwannasir49@gmail.com" target="blank">
+        <img align="center" src="https://www.svgrepo.com/show/484206/mail.svg" alt="safwannasir49@gmail.com" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/SafwanNasir49" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/safwan-nasir-955745219" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwa_nasir_linkedln" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/safwan_nasir_" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safwan_nasir_" height="30" width="40" />
+    </a>
+</p>
 
 <br/><br/>
 
