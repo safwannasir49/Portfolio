@@ -10,7 +10,7 @@
 </div>
 <br><br>
 <br><br>
-<img src="preview.png">
+<img src="prev.png">
 <br><br>
 <br><br>
  <h3 align="center">Connect with me:</h3>
